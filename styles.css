@@ -28,3 +28,25 @@ body{
 .imgBorder{
     border-left: 2px solid #9F9F9F;
 }
+
+
+
+
+.imglong{
+    position: relative;
+    z-index: 0;
+
+}
+
+.imglong::after{
+    content: "";
+    
+    background-color: black;
+    
+
+
+}
+
+
+    
+  
