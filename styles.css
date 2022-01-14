@@ -1,4 +1,30 @@
 
 .navbar-nav{
     color: #9F9F9F !important;
+    font-weight: 600;
+    font-size: larger;
+}
+
+body{
+    background-color: #D8D8D8 !important;
+    color: #9F9F9F !important ;
+
+}
+.pricetag{
+    background-color: blueviolet !important;
+    color: white !important;
+    font-weight: 600;
+    font-size: larger;
+}
+
+.weareGOG{
+    
+    
+}
+.weareGOG span{
+    color: blueviolet;
+}
+
+.imgBorder{
+    border-left: 2px solid #9F9F9F;
 }
